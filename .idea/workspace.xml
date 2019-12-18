@@ -2,7 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c731213-5fcc-4d65-915f-8867fe5a8fd2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-18-Stop-worrying-about-blocking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-18-Stop-worrying-about-blocking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-10-iOS-手势与变形.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-18-Xcode-Debug-大全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-26-BYPhoneNumTF.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-26-JSON-转模型-For-YYModel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-10-Objective-C Runtime详解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-15-iOS噪音计模型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-18-Objective-C-Runtime-基本使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-28-Objective-C-RunLoop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-01-快速添加圆角和描边.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-07-忽略-Xcode8-中的注释警告⚠️.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-13-定时器你真的会使用吗？.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-21-Objective-C-Category.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-26-ReactiveCocoa-基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-04-Hello-2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-14-随便聊聊.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-Git指令整理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-15-Mac-文本转音频.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-16-Git-代码回滚.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-22-Mac-文件的隐藏与显示.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-22-使用-.gitignore-忽略-git-仓库中的文件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-01-Xcode-控制台输出中文.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-06-Swift-代理模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-08-CocoaPods公有仓库的创建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-10-CocoaPods私有仓库的创建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-17-Mac终端(zsh)下用代码编辑器打开文件或目录.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-23-AsyncDisplayKit-2.0-教程：入门「译」.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-03-30-Swift 3.1-的新变化「译」.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-07-强化-Swift-中的-print.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-13-CocoaPods-安装和使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-20-iOS自动打包.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-28-RVM-使用指南.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-03-Swift-的懒加载和计算型属性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-04-R.swift-的使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-05-在-Swift-中使用-IBInspectable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-06-19-快速配置zsh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-04-Xcode9-无线调试功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之功能性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之动力链.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-10-「体能训练理论」之金字塔.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-19-Swift的HMAC和SHA1加密.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-24-iTunes-Connect-构建版本不显示.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-26-利用-Debug-Memory-Graph-检测内测泄漏.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-09-11-Swift-4-新特性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-10-04-GCD-在-Swift-中的用法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-19-为博客添加-Gitalk-评论插件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-12-26-从一道网易面试题浅谈-Tagged-Pointer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-9-Mac快速调出终端.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-3-07-文件目录树状(tree)显示.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-04-柔术最大的谎言「译」.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-05-Xcode命令行工具管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-05-5分钟带你看完-WWDC-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/BY_bolg_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/readme-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/readme-side.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,8 +140,8 @@
       <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
               </folding>
@@ -100,18 +155,6 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="242">
                 <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-06-05-5分钟带你看完-WWDC-2018.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-05-5分钟带你看完-WWDC-2018.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1056">
-                <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,6 +293,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="33" width="1567" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.199071" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -364,16 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -388,6 +422,16 @@
             <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
