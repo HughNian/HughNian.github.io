@@ -1,1 +1,25 @@
+#Site settings
 theme: jekyll-theme-architect
+title: HughNian Blog
+SEOTtitle: Golang, PHP, C/C++, BigData
+email: Hugh.Nian@163.com
+description: "天之道损有余而补不足，人之道损不足以奉有余"
+keywords: "Golang, PHP, C/C++, BigData, 架构, 服务端, 前端, 英文翻译"
+url: "https://hughnian.github.io/"
+
+#Sidebar settings
+sidebar: true
+sidebar-about-description: "信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知。"
+#sidebar-avatar:
+
+#SNS settings
+RSS: false
+#weibo_username:     username
+#zhihu_username:     username
+github_username:    hughnian
+facebook_username:  username
+jianshu_username:	5901b71cecaa
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 2a7029d1cfffababa03d12cc3ecd1311
