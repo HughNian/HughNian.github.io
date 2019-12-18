@@ -2,6 +2,7 @@
 theme: jekyll-theme-architect
 title: HughNian Blog
 SEOTtitle: Golang, PHP, C/C++, BigData
+header-img: img/plabyrinth-1.jpg
 email: Hugh.Nian@163.com
 description: "天之道损有余而补不足，人之道损不足以奉有余"
 keywords: "Golang, PHP, C/C++, BigData, 架构, 服务端, 前端, 英文翻译"
