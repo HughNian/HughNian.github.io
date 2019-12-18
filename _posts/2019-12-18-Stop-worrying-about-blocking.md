@@ -1,3 +1,15 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Stop worrying about blocking: the new async-std runtime, inspired by Go # 标题 
+subtitle:   async-std runtime #副标题
+date:       2019-12-18 				# 时间
+author:     hughnian 				# 作者
+header-img: img/writing-well-2.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - Golang
+---
+
 ## Stop worrying about blocking: the new async-std runtime, inspired by Go
 
 `async-std` is a mature and stable port of the Rust standard library to its new `async/await` world, designed to make async programming easy, efficient, worry- and error-free.
