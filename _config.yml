@@ -1,7 +1,7 @@
 # Site settings
 title: HughNian Blog
 SEOTitle: Golang, PHP, C/C++, BigData
-header-img: img/plabyrinth-1.jpg
+header-img: img/labyrinth-1.jpg
 email: Hugh.Nian@163.com
 description: "天之道损有余而补不足，人之道损不足以奉有余"
 keyword: "Golang, PHP, C/C++, BigData, 架构, 服务端, 前端, 英文翻译"
@@ -10,13 +10,13 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hughnian" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true      # whether or not using Sidebar.
+sidebar-about-description: "信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知"
+sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
-# weibo_username:   qiubaiying
+#weibo_username:   qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    hughnian
 #facebook_username:  baiying.qiu.7

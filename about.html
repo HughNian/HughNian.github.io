@@ -1,19 +1,26 @@
 ---
 layout: page
 title: "About"
-description: "Hi, this is HughNian."
-header-img: "img/coffee.jpg
+description: "Hi，HughNian"
+header-img: "img/coffee.jpg"
 ---
+
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英文 English </option>
+</select> -->
 
 <!-- Chinese Version -->
 <div class="zh post-container">
+
     <!--copied from markdown -->
-    <blockquote><p>信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知。<br>
+    <blockquote><p>信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知<br>
         知其雄，守其雌，为天下溪</p></blockquote>
 
-    <p>Hi，我是<strong>HughNian</strong>，一位后端工程师，工作和生活在金陵。</p>
+    <p>Hey，我是<strong>HughNian</strong>，一位后端工程师，工作和生活在金陵。</p>
 
-    <p>工作、学习之余，我还是一个运动爱好者，跑步，足球。</p>
+    <p>我还是一个运动爱好者，跑步，足球，羽毛球 etc...</p>
 
     <p></p>
 
@@ -21,8 +28,32 @@ header-img: "img/coffee.jpg
 
     <ul>
         <li><a href="https://github.com/hughnian">GitHub</a></li>
+        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="http://huangxuan.me/">Hux</a></li>
+        <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
     </ul>
 </div>
+
+<!-- English Version -->
+<!-- <div class="en post-container">
+    <blockquote><p>Yet another iOS Developer. <br>
+    Yet another Life-long Student.</p></blockquote>
+
+    <p>Hi, I am <strong>Baiying Qiu</strong>，you can call me <strong>BY</strong>. I am an iOS software engineer and currently working in Xiamen</p>
+
+    <p>This is my personal blog, through making Github Pages and Jekyll.My GitHub  👉 <a href="http://github.com/qiubaiying">Github·BY</a>.</p>
+
+    <p>I am a sports enthusiast, I like fitness, running and boxing.</p>
+
+    <h5>Talks</h5>
+
+    <ul>
+    <li><a href="https://github.com">GitHub</a></li>
+    <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+    <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+    <li><a href="https://qiubaiying.github.io">BY</a></li>
+    </ul>
+</div> -->
 
 <!-- Handle Language Change -->
 <script type="text/javascript">
@@ -42,7 +73,7 @@ header-img: "img/coffee.jpg
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $zh.style.display = "none";
-            // zh by default
+        // zh by default
         }else{
             // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 0;
@@ -72,22 +103,22 @@ header-img: "img/coffee.jpg
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 
 <div id="gitalk-container"></div>
-<script type="text/javascript">
+    <script type="text/javascript">
     var gitalk = new Gitalk({
-        clientID: '{{site.gitalk.clientID}}',
-        clientSecret: '{{site.gitalk.clientSecret}}',
-        repo: '{{site.gitalk.repo}}',
-        owner: '{{site.gitalk.owner}}',
-        admin: ['{{site.gitalk.admin}}'],
-        distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-        id: 'about',
+    clientID: '{{site.gitalk.clientID}}',
+    clientSecret: '{{site.gitalk.clientSecret}}',
+    repo: '{{site.gitalk.repo}}',
+    owner: '{{site.gitalk.owner}}',
+    admin: ['{{site.gitalk.admin}}'],
+    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
+    id: 'about',
     });
     gitalk.render('gitalk-container');
 </script>
 {% endif %}
 <!-- Gitalk end -->
 
-<!-- disqus 评论框 start  -->
+ <!-- disqus 评论框 start  -->
 {% if site.disqus.enable %}
 
 <div class="comment">
