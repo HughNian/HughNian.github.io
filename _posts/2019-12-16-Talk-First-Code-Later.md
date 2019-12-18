@@ -7,8 +7,10 @@ author:     hughnian
 header-img: img/talk-first-1.jpg
 catalog: true 						
 tags:							
-    - Golang
+    - Code
 ---
+
+### Talk First, Code Later
 
 An engineer from another office and different timezone raises a pull request for a service/library my team owns. The pull request has little to no description and makes no sense from our perspective. We write a long message explaining why this change can't happen. Then we block the change.
 
