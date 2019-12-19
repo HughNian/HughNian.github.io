@@ -1,12 +1,12 @@
 # Site settings
 title: HughNian Blog
-SEOTitle: Golang, PHP, C/C++, BigData
+SEOTitle: Golang_PHP_C/C++_服务端
 header-img: img/indexbg.jpg
 email: Hugh.Nian@163.com
 description: "天之道损有余而补不足，人之道损不足以奉有余"
-keyword: "Golang, PHP, C/C++, BigData, 架构, 服务端, 前端, 英文翻译"
-url: "https://hughnian.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "Golang,PHP,C/C++,架构,服务端,前端,英文翻译"
+url: "http://niansong.top/"    # your host, for absolute URL
+baseurl: ""                    # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hughnian" # you code repository
 
 # Sidebar settings
