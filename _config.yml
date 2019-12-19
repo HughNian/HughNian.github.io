@@ -49,14 +49,14 @@ kramdown:
 # disqus_username: hughnian
 
 # Gitalk
-#gitalk:
-#  enable: true      #是否开启Gitalk评论
-#  clientID:         #生成的clientID
-#  clientSecret:     #生成的clientSecret
-#  repo: hughnian.github.io    #仓库名称
-#  owner: hughnian    #github用户名
-#  admin: hughnian
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true      #是否开启Gitalk评论
+  clientID: f1ccfd4f7cb492fb0e5a #生成的clientID
+  clientSecret: 0349f82465bd5d329a23b2a6121bca1a7142385f #生成的clientSecret
+  repo:  hughnian.github.io    #仓库名称
+  owner: HughNian    #github用户名
+  admin: HughNian
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
 # Analytics settings
