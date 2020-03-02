@@ -29,7 +29,7 @@ tags:
 所以经过我的探索我建议使用如下命令
 ```php
     sudo curl -L https://github.com/weaveworks/scope/releases/download/latest_release/scope -o /usr/local/bin/scope
-    sudo chmod a+x /usr/local/bin/scopesudo chmod a+x /usr/local/bin/scope
+    sudo chmod a+x /usr/local/bin/scope
     scope launch -app.basicAuth -app.basicAuth.password 123456 -app.basicAuth.username user -probe.basicAuth -probe.basicAuth.password 123456 -probe.basicAuth.username user
 ```
 - 第一个下载命令换成从它官方的github上下载最新版本。
