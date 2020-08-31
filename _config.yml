@@ -12,7 +12,7 @@ github_repo: "https://github.com/hughnian" # you code repository
 # Sidebar settings
 sidebar: true      # whether or not using Sidebar.
 sidebar-about-description: "信言不美。美言不信。善者不辩。辩者不善。知者不博。博者不知"
-sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/nianchongpi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
