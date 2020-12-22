@@ -217,7 +217,7 @@ layout: default
 <script>
     var himg = "{{page.header-img}}";
     if(himg.indexOf("http") >= 0) {
-        document.getElementsByClassName("intro-header").style.backgroundImage = "url('"+himg+"')";
+        document.getElementsByClassName("intro-header")[0].style.backgroundImage = "url('"+himg+"')";
     }
 </script>
 <style>
