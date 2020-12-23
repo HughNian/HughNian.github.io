@@ -15,7 +15,7 @@ sidebar-about-description: "信言不美。美言不信。善者不辩。辩者�
 sidebar-avatar: /img/nianchongpi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
-RSS: false
+RSS: true
 #weibo_username:   hughnian
 #zhihu_username:   hughnian
 github_username:    hughnian
