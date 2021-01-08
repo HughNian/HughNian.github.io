@@ -63,7 +63,8 @@ FaaS是函数即为服务，Serverless相当于提供的更加细粒度和碎片
  
 ## Serverless 与 MicroService
 MicroService是微服务，是一种专注于单一责任与功能的小型服务，Serverless相当于`更加细粒度和碎片化`的单一责任与功能小型服务，他们都是一种特定的小型服务，
-从这个层次来说，Serverless=MicroService。   
+从这个层次来说，Serverless=MicroService。     
+
 _这几个之间有这么多联系，但是从架构的定义范围也有个包含关系，PaaS > SaaS > FaaS > MicroService > Serverless_    
 
 ## 最后还有个 ServiceMesh
