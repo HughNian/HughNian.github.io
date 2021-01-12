@@ -22,7 +22,7 @@ npw是一个用Golang开发的分词系统，里面也用到了NLP的隐马尔�
 
 
 <div align="center">
-    <a href="http://www.niansong.top"><img src="https://raw.githubusercontent.com/HughNian/npartword/master/logo/npartword_logo1.png" alt="npw logo"></a>
+    <a href="http://www.niansong.top"><img src="https://raw.githubusercontent.com/HughNian/npartword/master/logo/npartword_logo1.png" alt="npw logo" width="230"></a>
 </div>  
 
 
