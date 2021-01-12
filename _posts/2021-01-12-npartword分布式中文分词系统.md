@@ -16,7 +16,7 @@ tags:
 
 ## 缘起
 
-提到分词一直都是一个比较底层的技术，说简单点就是一个分词系统，说复杂的话它也是属于人工智能范畴，确切说是属于NLP自然语言处理范畴。
+提到分词一直都是一个比较底层的技术，说简单点就是一个中文分词系统，说复杂的话它也是属于人工智能范畴，确切说是属于NLP自然语言处理范畴。
 npw是一个用Golang开发的分词系统，里面也用到了NLP的隐马尔可夫模型，维特比算法等，并没有对词汇进行学习处理。我们只是NLP的应用，真正的人工智能NLP
 需要模型训练，需要不停的对不同模型的加解码，得出最优解，这就很深了，npw不属于这个范畴(￣▽￣)"。
 
@@ -25,6 +25,8 @@ npw是一个用Golang开发的分词系统，里面也用到了NLP的隐马尔�
     <a href="http://www.niansong.top"><img src="https://raw.githubusercontent.com/HughNian/npartword/master/logo/npartword_logo1.png" alt="npw logo" width="230"></a>
 </div>  
 
+## npw项目地址
+[https://github.com/HughNian/npartword](https://github.com/HughNian/npartword){:target="_blank"}
 
 ## npw介绍
 npw：npartword，golang实现的分布式中文分词系统，主体分词逻辑有两个部分。   
