@@ -20,8 +20,9 @@ Multipass有些非常方便的命令行操作虚拟机，甚至比图形化的vb
 Multipass官网：[https://multipass.run/](https://multipass.run/)
 
 ## 修改操作
-_注意_： 本操作是在你已经成功启动某一个Multipass虚拟机的前提下进行的操作。
-```cgo
+_注意_： 本操作是在你已经成功启动某一个Multipass虚拟机的前提下进行的操作。  
+
+```shell
 # 先停止 multipassd 服务
 sudo launchctl unload /Library/LaunchDaemons/com.canonical.multipassd.plist
 
@@ -35,9 +36,10 @@ sudo launchctl load /Library/LaunchDaemons/com.canonical.multipassd.plist
 
 ```
 
-## 配置文件格式  
-```cgo
-_注意_：如果是多个虚拟机，这里的会有多个对象信息
+## 配置文件格式
+_注意_：如果是多个虚拟机，这里的会有多个对象信息。
+
+```json
 {
     "k8s-master": {
         "deleted": false,
