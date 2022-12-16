@@ -39,7 +39,7 @@ sudo launchctl load /Library/LaunchDaemons/com.canonical.multipassd.plist
 ## 配置文件格式
 _注意_：如果是多个虚拟机，这里的会有多个对象信息。
 
-```
+```php
 {
     "k8s-master": {
         "deleted": false,
