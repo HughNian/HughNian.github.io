@@ -527,6 +527,10 @@ pre code {
 }
 .intro-header .site-heading {
   padding: 95px 0 70px;
+  background: linear-gradient(to right, #1564cb, #b80f92);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading {
