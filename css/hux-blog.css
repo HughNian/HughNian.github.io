@@ -516,7 +516,10 @@ pre code {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white;
+  background: linear-gradient(to right, #1564cb, #b80f92);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
